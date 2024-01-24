@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: ;
+  font-weight: 600;
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  padding: 2em;
+  display: flex;
+  justify-content: space-between;
+}

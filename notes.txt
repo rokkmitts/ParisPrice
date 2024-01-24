@@ -1,0 +1,3 @@
+Research: Goal is to build a media 2D-taurus of media content (photos and video shorts) using Javascript code.
+1 - On item mouse click while item(!focused), focus the img by making the taurus collapse into center, bring clicked img center, hiding the stack
+1 - on item click while item(focused), reverse the occurance of events, placing the img back into the taurus
