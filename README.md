@@ -1,5 +1,5 @@
 # Musicians Webpage (ParisPrice) 
-<https://rokkmitss.github.io> 
+<https://rokkmits.github.io> 
 
 ## Introduction
 
